@@ -1,1 +1,5 @@
-# Breast-Cancer-Detection
+# Breast-Cancer-
+
+--> Importing the Dependencies
+
+--> Data Collection & Processing
